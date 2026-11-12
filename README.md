@@ -1,5 +1,5 @@
 # VEO 
-**VEO v2.0.5** | Observable Emergency Surveillance
+**VEO v2.0.5** 
 
 > **AVISO IMPORTANTE:** Este proyecto esta en desarrollo activo y es funcionalmente INCOMPLETO. No todas las funciones descritas en la documentacion estan implementadas o conectadas. Algunos componentes existen como infraestructura preparada pero no estan integrados en el flujo de ejecucion principal. Consulta `docs/ABOUT.md` para conocer el estado real de cada modulo.
 
