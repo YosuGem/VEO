@@ -1,6 +1,6 @@
 # About VEO — Project Overview
 
-> **VEO** = Vigilancia de Emergencias Observables  
+> **VEO** 
 > (from Spanish *"yo veo"* — "I see")
 
 ---
