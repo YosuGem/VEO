@@ -146,7 +146,7 @@ All exposed through a **FastAPI REST API**, a **React Dashboard with WebSocket**
 | REST API (FastAPI) | Functional |
 | CLI (Typer) | Functional |
 | WebSocket | Functional |
-| Dashboard React | Functional (3 panels with real data, 6 with mock data) |
+| Dashboard React | Functional (4 panels consume the API, 6 static/mock) |
 | SQLite persistence | Functional |
 | Dual-agent validation | Functional |
 | Prediction markets | Functional |
