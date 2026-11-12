@@ -1,0 +1,37 @@
+# VEO v2 - Dependencias
+# Instalar: pip install -r requirements.txt
+# Python 3.10+ requerido
+
+# --- Core ---
+numpy>=1.24.0
+pydantic-settings>=2.0.0
+networkx>=3.2.0
+scipy>=1.12.0
+psutil>=5.9.0
+
+# --- API ---
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+
+# --- CLI ---
+typer>=0.29.0
+rich>=13.0.0
+
+# --- DB (SQLite async) ---
+aiosqlite>=0.19.0
+
+# --- ML / NLP (OPCIONAL) ---
+# sentence-transformers>=2.2.0  # Solo si se usan embeddings semanticos.
+#                              # Requiere torch (~2GB). El motor funciona
+#                              # con fallback a vectores nulos si no esta.
+
+# --- Dev / Tests ---
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+requests>=2.31.0  # Requerido por scripts de prueba HTTP
+
+# --- Dashboard (opcional, solo si se usa React) ---
+# plotly>=5.15.0
+# dash>=2.14.0
+# Instalar dashboard deps manualmente si se necesita:
+# pip install plotly dash dash-bootstrap-components
