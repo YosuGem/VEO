@@ -29,7 +29,7 @@ Todo expuesto mediante una **API REST con FastAPI**, un **Dashboard React con We
 | API REST (FastAPI) | Funcional |
 | CLI (Typer) | Funcional |
 | WebSocket | Funcional |
-| Dashboard React | Funcional (4 paneles consumen la API, 6 estáticos/mock, 6 con datos mock) |
+| Dashboard React | Funcional (4 paneles consumen la API, 6 estáticos/mock) |
 | Persistencia SQLite | Funcional |
 | Validacion dual | Funcional |
 | Mercados de prediccion | Funcional |
