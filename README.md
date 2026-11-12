@@ -29,7 +29,7 @@ All exposed through a **FastAPI REST API**, a **React Dashboard with WebSocket**
 | REST API (FastAPI) | Functional |
 | CLI (Typer) | Functional |
 | WebSocket | Functional |
-| Dashboard React | Functional (4 panels consume the API, 6 static/mock, 6 with mock data) |
+| Dashboard React | Functional (4 panels consume the API, 6 static/mock) |
 | SQLite persistence | Functional |
 | Dual-agent validation | Functional |
 | Prediction markets | Functional |
@@ -146,7 +146,7 @@ Todo expuesto mediante una **API REST con FastAPI**, un **Dashboard React con We
 | API REST (FastAPI) | Funcional |
 | CLI (Typer) | Funcional |
 | WebSocket | Funcional |
-| Dashboard React | Funcional (3 paneles con datos reales, 6 con datos mock) |
+| Dashboard React | Funcional (4 paneles consumen la API, 6 estáticos/mock) |
 | Persistencia SQLite | Funcional |
 | Validacion dual | Funcional |
 | Mercados de prediccion | Funcional |
